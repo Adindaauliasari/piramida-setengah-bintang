@@ -6,7 +6,7 @@ int main ()
   
 {
 
-      int  i, j, n;
+      int  i, j, n   ;
       
       cout << "Masukkan jumlah baris: ";
       
