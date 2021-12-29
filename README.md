@@ -8,9 +8,9 @@ int main ()
 
       int  i, j, n   ;
       
-      cout << "Masukkan jumlah baris: ";
+      cout << "Masukkan jumlah baris: " ;
       
-      cin >> n;
+      cin >> n ;
       
       for (i = 1; i <= n; i++)
       {
